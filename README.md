@@ -18,8 +18,11 @@ Se houver um bug ou outra melhoria que você gostaria de relatar ou solicitar, n
 Por favor, sinta-se à vontade para entrar em contato conosco para quaisquer perguntas: [![Gmail Badge](https://img.shields.io/badge/-adonias.oliveira@ifce.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adonias.oliveira@ifce.edu.br)](mailto:adonias.oliveira@ifce.edu.br )
 
 
-## Dataset utilizado traduzido
+## Dataset utilizado (versão traduzida)
 
-Para uma melhor compreensão e interpretação a cerca dos resultados obtidos utilizando o conjunto de dados [UCI Machine Learning Repository – Divorce Predictors Dataset](https://archive.ics.uci.edu/dataset/539/divorce+predictors+data+set), todo o dataset foi traduzido da lingua original para português.
+Com o objetivo de facilitar a compreensão e a interpretação dos resultados obtidos a partir do conjunto de dados [UCI Machine Learning Repository – Divorce Predictors Dataset](https://archive.ics.uci.edu/dataset/539/divorce+predictors+data+set), realizou-se a tradução integral do dataset de sua língua original para o português.
 
-[Clique aqui para baixar o dataset traduzido em PDF](tabela_DPS.pdf)
+A versão traduzida visa tornar as variáveis e descrições mais acessíveis, contribuindo para uma análise mais clara e consistente ao longo do desenvolvimento do estudo.
+
+[Clique aqui para acessar o dataset traduzido em formato PDF](tabela_DPS.pdf)
+
