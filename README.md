@@ -11,10 +11,16 @@ A equipe de pesquisa do artigo foi composta por:
 * Prof. Me. Adonias Caetano de Oliveira - Docente-orientador do Curso de Ciência da Computação, IFCE Campus Tianguá
 </p>
 
-## 👏 Contribuições
+## Contribuições
 
 Se houver um bug ou outra melhoria que você gostaria de relatar ou solicitar, nós o encorajamos a contribuir.
 
 Por favor, sinta-se à vontade para entrar em contato conosco para quaisquer perguntas: [![Gmail Badge](https://img.shields.io/badge/-adonias.oliveira@ifce.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adonias.oliveira@ifce.edu.br)](mailto:adonias.oliveira@ifce.edu.br )
 
+
+## Dataset utilizado traduzido
+
+Para uma melhor compreensão e interpretação a cerca dos resultados obtidos utilizando o conjunto de dados [UCI Machine Learning Repository – Divorce Predictors Dataset](https://archive.ics.uci.edu/dataset/539/divorce+predictors+data+set), todo o dataset foi traduzido da lingua original para português.
+
+Você pode acessar a tradução no link abaixo.
 [Clique aqui para baixar o PDF](tabela_DPS.pdf)
