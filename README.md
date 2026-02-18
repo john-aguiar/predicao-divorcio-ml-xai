@@ -22,5 +22,4 @@ Por favor, sinta-se à vontade para entrar em contato conosco para quaisquer per
 
 Para uma melhor compreensão e interpretação a cerca dos resultados obtidos utilizando o conjunto de dados [UCI Machine Learning Repository – Divorce Predictors Dataset](https://archive.ics.uci.edu/dataset/539/divorce+predictors+data+set), todo o dataset foi traduzido da lingua original para português.
 
-Você pode acessar a tradução no link abaixo.
 [Clique aqui para baixar o PDF](tabela_DPS.pdf)
