@@ -12,16 +12,28 @@ Os autores do artigo foram:
 
  ## 📋 Requisitos de bibliotecas Python
 
-* Google Colab
-* python pandas library
-* python unidecode library
-* python word_tokenize, stopwords, sent_tokenize (nltk) libraries
-* python wordcloud library
-* python matplotlib.pyplot library
-* python transformers library
-* python seaborn library
-* python imblearn.under_sampling library
-* python sklearn.model_selection library
+* import gdown
+* import os
+* import pickle
+* import pandas as pd
+* import numpy as np
+* import xgboost as xgb
+* import random
+* from sklearn.model_selection import train_test_split
+* from sklearn.metrics import accuracy_score
+* from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
+* from sklearn.model_selection import GridSearchCV
+* import shap
+* import seaborn as sns
+* import matplotlib.pyplot as plt
+* from lime.lime_tabular import LimeTabularExplainer
+* from sklearn.svm import SVC
+* from xgboost import XGBClassifier
+* from sklearn.naive_bayes import GaussianNB
+* from sklearn.neural_network import MLPClassifier
+* from sklearn.ensemble import RandomForestClassifier
+* from sklearn.linear_model import LogisticRegression
+* from IPython.display import display
 
 ## 📖  Conjunto de Dados
 
