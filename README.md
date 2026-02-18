@@ -16,3 +16,5 @@ A equipe de pesquisa do artigo foi composta por:
 Se houver um bug ou outra melhoria que você gostaria de relatar ou solicitar, nós o encorajamos a contribuir.
 
 Por favor, sinta-se à vontade para entrar em contato conosco para quaisquer perguntas: [![Gmail Badge](https://img.shields.io/badge/-adonias.oliveira@ifce.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adonias.oliveira@ifce.edu.br)](mailto:adonias.oliveira@ifce.edu.br )
+
+[Clique aqui para baixar o PDF](tabela_DPS.pdf)
